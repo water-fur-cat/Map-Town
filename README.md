@@ -19,7 +19,7 @@ Deatils:
 <br>
 Adaptive layout：
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/left_turn.jpg"/>
+<img width="639" height="300" src="https://github.com/water-fur-cat/Map-Town/blob/main/left_turn.jpg"/>
 <br>
 
 ## Reference：
