@@ -8,15 +8,18 @@
 Closed issues:
 <br>
 <img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
-![](https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg)
 <br>
 Add favorite places:
 <br>
-![](https://github.com/water-fur-cat/Map-Town/blob/main/favorite_places.jpg)
+<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/favorite_places.jpg"/>
 <br>
 Deatils:
 <br>
-![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/details.jpg)
+<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/zooming.jpg"/>
+<br>
+Adaptive layout：
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/left_turn.jpg"/>
 <br>
 
 ## Reference：
