@@ -7,11 +7,12 @@
 ## User Interface:
 Closed issues:
 <br>
-![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/closed_issues.jpg)
+<img width="150" height="150" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
+![](https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg)
 <br>
-Open issues:
+Add favorite places:
 <br>
-![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/open_issues.jpg)
+![](https://github.com/water-fur-cat/Map-Town/blob/main/favorite_places.jpg)
 <br>
 Deatils:
 <br>
