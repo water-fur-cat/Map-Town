@@ -4,7 +4,21 @@
   The application will make use of MapKit for displaying points of interest on the map and many Foundation classes for managing the data associated with each location. This application will make use of adaptive layout techniques so that it will adjust to the users screen size and orientation.
   This assignment will require the use of both Storyboards and programmatic interface design.
 
-* reference：
+## User Interface:
+Closed issues:
+<br>
+![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/closed_issues.jpg)
+<br>
+Open issues:
+<br>
+![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/open_issues.jpg)
+<br>
+Deatils:
+<br>
+![](https://github.com/water-fur-cat/GitHub-Issues-App/blob/main/details.jpg)
+<br>
+
+## Reference：
 - https://stackoverflow.com/questions/42106980/how-to-present-a-viewcontroller-on-half-screen
 - https://sarunw.com/posts/how-to-read-plist-file/
 - https://medium.com/ios-os-x-development/pass-data-with-delegation-in-swift-86f6bc5d0894
