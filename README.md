@@ -7,7 +7,7 @@
 ## User Interface:
 Closed issues:
 <br>
-<img width="150" height="150" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
 ![](https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg)
 <br>
 Add favorite places:
